@@ -31,4 +31,5 @@ If the code has errors, the code tester will try to identify the error and provi
 You need to have an internet connection to use the code tester, as it relies on the Llama-2-13b-Chat-GPTQ LLM, which is hosted online.
 
 ***License***
+
 This project is licensed under the MIT License. See the LICENSE file for more information.
