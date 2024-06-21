@@ -14,13 +14,7 @@ User-Friendly Interface: Interact with the code tester through a simple console-
 
 ***Requirements***
 
-To use the code tester, you need to install the following packages:
-
-transformers>=4.32.0
-langchain>=0.0.262
-torch>=2.0.0
-
-by using pip:
+To use the code tester, you need to install the packages required by using pip:
 pip install -r requirements.txt
 
 ***Usage***
