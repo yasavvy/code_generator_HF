@@ -32,5 +32,3 @@ You need to have an internet connection to use the code tester, as it relies on 
 
 ***License***
 This project is licensed under the MIT License. See the LICENSE file for more information.
-
-*Your contribution is welcome!*
