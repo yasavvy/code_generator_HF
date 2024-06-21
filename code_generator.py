@@ -5,7 +5,7 @@ import subprocess
 import tempfile
 import unittest
 
-# --- Модуль для работы с LLM ---
+#--- Модуль для работы с LLM ---
 class LLM:
     def __init__(self, model_name: str = "TheBloke/Llama-2-13b-Chat-GPTQ"):
         self.model_name = model_name
